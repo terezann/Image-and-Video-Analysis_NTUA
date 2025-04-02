@@ -14,5 +14,5 @@ More projects will be added progressively.
 
 ---
 
-🛠️ **Technologies Used:** Python, NumPy, OpenCV (if needed), Matplotlib  
+🛠️ **Technologies Used:** Python, NumPy, OpenCV , Matplotlib  
 📌 **Status:** Ongoing  
